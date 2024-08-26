@@ -13,7 +13,7 @@ My journey into Data Science began two years ago when I encountered the complexi
 ## 💼 Professional Experience
 
 ### **Fintech Analyst at Younited Credit**
-During my time as a Fintech Analyst at Younited Credit, I had the opportunity to work in a dynamic and fast-paced environment, analyzing financial data and developing insights that drove strategic decisions. This experience not only enhanced my analytical skills but also gave me a unique perspective on the intersection of finance and technology.
+During my time as a Pricing Analyst at Younited Credit, I had the opportunity to work in a dynamic and fast-paced environment, analyzing financial data and developing insights that drove strategic decisions. This experience not only enhanced my analytical skills but also gave me a unique perspective on the intersection of finance and technology.
 
 ---
 
