@@ -1,4 +1,4 @@
-# Hi there, I'm Claudio! 👋
+# Claudio's Profile!
 
 🎓 **Data Science Student** | 💰 **Finance Graduate** | 🦄 **Former Fintech Unicorn Analyst**
 
