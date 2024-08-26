@@ -46,5 +46,3 @@ Feel free to reach out!
 
 - **Email:** [claaudio.giannini@gmail.com](claaudio.giannini@gmail.com)
 
----
-
