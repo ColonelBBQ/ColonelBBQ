@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-My journey in Data Science started two years ago when I was mesmerized by the complexity of real-world problems during my time as a Fintech Analyst at a unicorn company.
-  
+My journey into Data Science began two years ago when I encountered the complexity of real-world problems while working as a Fintech Analyst at a unicorn company.
+
 ---
 
 ## 💼 Professional Experience
