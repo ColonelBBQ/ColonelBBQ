@@ -7,12 +7,6 @@
 ## 🚀 About Me
 
 My journey in Data Science started two years ago when I was mesmerized by the complexity of real-world problems during my time as a Fintech Analyst at a unicorn company.
-
-### 🔍 What I’m Interested In:
-- **Data Mining & Algorithms:** Uncovering hidden patterns and trends in data using advanced algorithms.
-- **Cloud Computing:** Leveraging the power of cloud platforms to scale data processing and machine learning models.
-- **Web Scraping:** Automating the extraction of data from websites to fuel data-driven projects.
-- **Machine Learning & AI:** Building predictive models and intelligent systems that can learn and adapt.
   
 ---
 
@@ -26,7 +20,7 @@ During my time as a Fintech Analyst at Younited Credit, I had the opportunity to
 ## 🎥 Current Projects
 
 ### Automated YouTube Channels
-I’m currently working on automated YouTube channels where I apply data-driven techniques to automate content generation, optimize video performance, and analyze audience engagement. Check out the channels below:
+I’m currently working on automated YouTube channels where I use libraries such as MoviePy to automate content creation. Check out the channels below:
 
 - [Football Quiz Club](#https://www.youtube.com/@quizclub_official) ✅
 - [Basket Quiz Club](#https://www.youtube.com/@basketquizclub) 🔜
