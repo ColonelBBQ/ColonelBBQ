@@ -1,6 +1,6 @@
 # Claudio's Profile!
 
-🎓 **Data Science Student** | 💰 **Finance Graduate** | 🦄 **Former Fintech Unicorn Analyst**
+🎓 **Data Science Student** | 💰 **Finance Graduate** | **Former Fintech Unicorn Analyst**
 
 ---
 
@@ -25,18 +25,7 @@ I’m currently working on automated YouTube channels where I use libraries such
 - [Football Quiz Club](https://www.youtube.com/@quizclub_official) ✅
 - [Basket Quiz Club](https://www.youtube.com/@basketquizclub) 🔜
 
----
 
-## 🛠️ Skills & Technologies
-
-- **Programming Languages:** Python, R, JavaScript
-- **Data Analysis:** Pandas, NumPy, Scikit-learn
-- **Machine Learning:** TensorFlow, Keras, PyTorch
-- **Data Mining:** Association Rules, Clustering, Classification
-- **Web Scraping:** BeautifulSoup, Scrapy, Selenium
-- **Cloud Computing:** AWS
-- **Database Management:** SQL, MongoDB, Neo4j
-- **Data Visualization:** Matplotlib, Seaborn, PowerBI
 
 ---
 
