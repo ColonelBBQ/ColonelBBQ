@@ -1,4 +1,4 @@
-# Claudio's Profile!
+# Claudio's Profile
 
 **Data Science Student** | **Finance Graduate** | **Former Fintech Unicorn Analyst**
 
