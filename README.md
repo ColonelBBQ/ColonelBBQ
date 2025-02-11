@@ -9,7 +9,7 @@
 ### **Fintech Analyst at Younited Credit**
 As a Pricing Analyst at Younited Credit, I played a key role in optimizing pricing strategies, conducting data-driven analysis, and supporting the Data Science team in refining financial models. My work focused on enhancing profitability, improving customer segmentation, and ensuring competitive market positioning.
 
-Key Responsibilities & Achievements
+**Key Responsibilities & Achievements**
 
 ✅ Pricing Strategy Optimization
 • Developed and optimized pricing strategies for the emulators channel (e.g., Facile), ensuring competitive positioning and profitability.
