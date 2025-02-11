@@ -4,20 +4,30 @@
 
 ---
 
-## 🚀 About Me
-
-My journey into Data Science began two years ago when I encountered the complexity of real-world problems while working as a Fintech Analyst at a unicorn company.
-
----
-
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Fintech Analyst at Younited Credit**
-During my time as a Pricing Analyst at Younited Credit, I had the opportunity to work in a dynamic and fast-paced environment, analyzing financial data and developing insights that drove strategic decisions. This experience not only enhanced my analytical skills but also gave me a unique perspective on the intersection of finance and technology.
+As a Pricing Analyst at Younited Credit, I played a key role in optimizing pricing strategies, conducting data-driven analysis, and supporting the Data Science team in refining financial models. My work focused on enhancing profitability, improving customer segmentation, and ensuring competitive market positioning.
+
+Key Responsibilities & Achievements
+
+✅ Pricing Strategy Optimization
+• Developed and optimized pricing strategies for the emulators channel (e.g., Facile), ensuring competitive positioning and profitability.
+
+✅ Marketing & Revenue Analysis
+• Provided analytical support for marketing promotions, assessing the impact of pricing offers and recommending data-driven adjustments.
+• Monitored market trends and competitor pricing, leveraging insights to inform pricing strategy updates.
+
+✅ A/B Testing & Data Science Collaboration
+• Developed data pipelines and dashboards to automate the extraction and analysis of key metrics for A/B testing, enabling deeper insights into segment-specific price elasticity.
+• Generated initial insights from A/B tests, which were cross-validated with the central Data Science team in Paris, ensuring accuracy and actionable outcomes.
+
+✅ Automation & Reporting
+• Automated pricing reports and dashboards using Python and SQL, improving operational efficiency and decision-making.
 
 ---
 
-## 🎥 Current Projects
+## Current Side Projects
 
 ### Automated YouTube Channels
 I’m currently working on automated YouTube channels where I use libraries such as MoviePy to automate content creation. Check out the channels below:
@@ -25,11 +35,9 @@ I’m currently working on automated YouTube channels where I use libraries such
 - [Football Quiz Club](https://www.youtube.com/@quizclub_official) ✅
 - [Basket Quiz Club](https://www.youtube.com/@basketquizclub) 🔜
 
-
-
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 Feel free to reach out!
 
