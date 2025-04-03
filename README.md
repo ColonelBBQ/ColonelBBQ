@@ -32,7 +32,7 @@ Automation & Reporting
 ### Automated YouTube Channels
 I’m currently working on automated YouTube channels where I use libraries such as MoviePy to automate content creation. Check out the channels below:
 
-- [Football Quiz Club](https://www.youtube.com/@quizclub_official) ✅
+- [Football Quiz Club](https://www.youtube.com/@futbolquizclub) ✅
 
 ---
 
